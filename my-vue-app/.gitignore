@@ -1,0 +1,5 @@
+# Environment variables(IGNORIG FOR DEMO ONLY)
+#.env.* 
+
+node_modules
+package-lock.json

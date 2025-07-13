@@ -1,0 +1,34 @@
+@use "variables" as *;
+
+// Global Reset and Base Styles
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: $text-primary;
+  background-color: #fff;
+}
+
+// Global button style for dashboard link
+.button-link {
+  display: inline-block;
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  font-weight: 500;
+  background-color: $primary-color;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.2s, transform 0.2s;
+
+  &:hover {
+    background-color: $primary-color-dark;
+  }
+}

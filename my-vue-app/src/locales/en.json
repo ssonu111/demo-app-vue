@@ -1,0 +1,14 @@
+{
+  "header_title": "Clarivate",
+  "footer_text": "© 2025 My Company. All Rights Reserved.",
+  "menu_app1_link": "App 1",
+  "menu_app2_link": "App 2",
+  "dashboard_title": "Dashboard",
+  "list_title": "Photo Collection",
+  "go_to_list": "View All Photos",
+  "back_to_dashboard": "Back to Dashboard",
+  "favorites": "My Favorites",
+  "no_favorites": "Favorite photos will appear here.",
+  "loading": "Loading more photos...",
+  "app2_placeholder": "This is App 2"
+}
