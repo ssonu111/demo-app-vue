@@ -68,8 +68,5 @@ npm run test
 - **Localization**: Add more languages in [`src/locales/`](src/locales/).
 - **Routing**: Main routes in [`src/router/index.ts`](src/router/index.ts).
 
-## Contributing
-Feel free to open issues or submit pull requests for improvements or bug fixes.
-
 ## License
 Nothing to license here.
